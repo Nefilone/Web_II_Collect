@@ -19,7 +19,6 @@ public class ListVsSetExample {
 
         Set<String> set = new HashSet<>();
 
-        set.add("Bob");
         set.add("Alice");
 
         System.out.println("Set removes duplicates:");
