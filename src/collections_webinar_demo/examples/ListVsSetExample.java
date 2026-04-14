@@ -9,7 +9,7 @@ public class ListVsSetExample {
 
         List<String> list = new ArrayList<>();
 
-        list.add("Alice");
+
         list.add("Alice");
 
         System.out.println("List allows duplicates:");
