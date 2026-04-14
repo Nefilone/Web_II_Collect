@@ -19,7 +19,6 @@ public class ListVsSetExample {
 
         Set<String> set = new HashSet<>();
 
-        set.add("Alice");
         set.add("Bob");
         set.add("Alice");
 
